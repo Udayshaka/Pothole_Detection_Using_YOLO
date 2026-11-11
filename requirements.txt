@@ -42,4 +42,3 @@ urllib3==2.8.0
 wheel==0.48.0
 wrapt==2.5.2
 ultralytics==8.0.134
-YOLOv8==8.0.134
