@@ -20,7 +20,7 @@ st.write(
 )
 
 # -------------------- Model loading --------------------
-DEFAULT_MODEL_PATH = Path("/Users/uday/Desktop/CNN_Project /best .pt")
+DEFAULT_MODEL_PATH = Path(__file__).resolve().parent / "best.pt"
 
 
 @st.cache_resource
